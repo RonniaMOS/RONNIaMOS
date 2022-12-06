@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/Ronni__amos
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/ronni-a-8b383a51
 
